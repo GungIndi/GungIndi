@@ -25,7 +25,7 @@
 ![Django](https://img.shields.io/badge/-Django-05092A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05092A?style=flat&logo=flask)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05092A?style=flat&logo=git)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-05092A?style=flat&logo=jenkins)  
+![Jenkins](https://img.shields.io/badge/-Jenkins-05092A?style=flat&logo=jenkins) 
 ![GitHub](https://img.shields.io/badge/-GitHub-05092A?style=flat&logo=github)&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-05092A?style=flat&logo=nginx)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05092A?style=flat&logo=docker)&nbsp;
