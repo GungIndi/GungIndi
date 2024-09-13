@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='35' align="left"/>
 <h2>Hi there!, I'm Gung Indi</h2>
 
 <br>
