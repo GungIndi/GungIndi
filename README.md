@@ -1,5 +1,5 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='35' align="left"/>
-<h2>Hi there!, I'm Gung Indi</h2>
+<h2>Hi there! I'm Gung Indi</h2>
 
 <br>
 
@@ -38,7 +38,7 @@
 
 
 
-<br><br>
+<br><br><br>
 <a href="https://www.linkedin.com/in/anak-agung-indi-kusuma-putra/">
   <img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
