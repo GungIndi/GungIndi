@@ -32,6 +32,9 @@
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-05092A?style=flat&logo=google-cloud)&nbsp;
 ![Github Actions](https://img.shields.io/badge/-GithubActions-05092A?style=flat&logo=github-actions)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05092A?style=flat&logo=kubernetes)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05092A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05092A?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05092A?style=flat&logo=mongodb)&nbsp;
 ![Prometheus](https://img.shields.io/badge/-Prometheus-05092A?style=flat&logo=prometheus)&nbsp;
 ![Grafana](https://img.shields.io/badge/-Grafana-05092A?style=flat&logo=grafana)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-05092A?style=flat&logo=terraform)&nbsp;
